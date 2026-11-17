@@ -6,6 +6,7 @@ Boss waves are 1-2 enemy cobras, juggernaut only waves with buffed health, and e
 
 Mod is essentially finished, with small changes to likely come. (NOTE: This mod was developed independently based on my friend and I wanting to improve the OG survival mod for this game for a while now, and we are not associated with anyone else who has developed similar mods for BO1. For another cool take on a surv mod for BO1, check out user @Polacco 's mp survival mod on the plutonium discord server, who has done more or less the same idea but with direct model imports from mw3 and different animations/stations/hud).
 
+https://youtu.be/C4VIHSPbids?si=AqQYoktpeb6lSTQW
 
 <img width="1133" height="642" alt="git2" src="https://github.com/user-attachments/assets/c8c9c38b-e018-4ea0-994a-72176160e5ee" /> Modded in weapons from SP/ZM in the buy station, up to 3 attachments for some weapons (no limit on attachments)
 <img width="390" height="241" alt="git4" src="https://github.com/user-attachments/assets/e9bafb89-a899-4af0-ad0b-8a73fb46cb1f" />  Juggernauts are the armored guard model from the campaign.
